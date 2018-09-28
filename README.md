@@ -13,3 +13,5 @@ This plugin is a Widget to display a subscribe button and the option to show/hid
 
 Version
 2.0
+
+For more details please follow the readme.txt file.
