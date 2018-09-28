@@ -4,7 +4,7 @@ version: 1
 writen by: Mayuresh Lande
 
 My website name is U3A. The website for university of third age. The website link is http://mayureshl.sgedu.site/
-For this website I create one plugine name as Youtube subs which is used for youtube subscription.
+For this website I create one plugine name as My Youtube which is used for youtube subscription.
 Once the youtube icon is clicked it takes the user to a youtube channel. Then the user can subscribe and watch the videos.
 To make this plugin we need the follow the steps mentioned below:
 1. Create one  My Youtube plugin folder to view a wordpress web-content/ plugin folder.
