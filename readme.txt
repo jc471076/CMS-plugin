@@ -26,7 +26,7 @@ This section describes how to install the plugin and get it working.
 
 This plugin allow us to use multiple youtube channels to subscribe as well as admin can do some changes such as loho of channel or can change channel name in setting.
 
-
+References used to create this plugin:- https://www.youtube.com/watch?v=eZn3tfF5GFM
 
 Thanks and Regards,
 Mayuresh Lande
